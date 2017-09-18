@@ -10,7 +10,7 @@ namespace BaiscIPaddress
     {
         static void Main(string[] args)
         {
-
+            Console.Write("b");
         }
     }
 }
